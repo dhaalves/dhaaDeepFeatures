@@ -30,7 +30,7 @@ command like this:
 python deep_features.py --dataset_folder ~/flower_photos/ --network='inception_v3'
 ```
 
-##Parameters
+## Parameters
 ```bash
   -dataset_folder       Folder containing image dataset
   -network              default: 'inception_v3'; 
