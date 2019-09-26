@@ -27,7 +27,7 @@ Once your images are prepared, and you have pip-installed tensorflow-hub and
 a sufficiently recent version of tensorflow, you can run extract deep features with a
 command like this:
 ```bash
-python deep_features.py --dataset_folder ~/flower_photos/ --network='inception_v3'
+python deep_features.py -dataset_folder ~/flower_photos/ -network='inception_v3'
 ```
 
 ## Parameters
